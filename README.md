@@ -3,7 +3,7 @@ Aplicação de api, com autenticação JWT
 
 
 Configurando 
- - No arquivo config/database, editar as configurações do banco de dados
+ - No arquivo .env, editar as configurações do banco de dados
  - Realizar um migrate com, php artisan migrate
 
 Acessos por Postman
