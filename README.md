@@ -5,6 +5,7 @@ Aplicação de api, com autenticação JWT
 Configurando 
  - No arquivo .env, editar as configurações do banco de dados
  - Realizar um migrate com, php artisan migrate
+ - instalar dependencias: composer require laravel/installer
 
 Acessos por Postman
 
